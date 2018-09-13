@@ -1,2 +1,2 @@
-# Session 22: TensorFlow (workshop)
-SOA Predictive Analytics Symposium 2017
+# Session 11: TensorFlow (workshop)
+SOA Predictive Analytics Symposium 2018
